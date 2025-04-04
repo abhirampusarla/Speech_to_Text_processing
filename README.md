@@ -19,5 +19,5 @@ This is a simple voice recognition program using Python's `speech_recognition` a
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/username/repo-name.git
+   cd repo-name
